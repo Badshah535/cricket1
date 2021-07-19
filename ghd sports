@@ -1,23 +1,29 @@
 {
-   "app_redirectOtherAppStatus":"0",
-   "app_newPackageName":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapps15.freestarutsavserialsapp",
-   "app_AppOpenAdStatus":"0",
-   "app_dialogBeforeAdShow":"0",
-   "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
-   "app_howShowAd":"0",
-   "qureka":"https://282.win.predchamp.com",
-   "more_app":"https://raw.githubusercontent.com/Cipher-Infotech/mockjson/master/db.json",
-   "admob_showAdStatus":"0",
-   "AppID":"ca-app-pub-5517092987757413~8240781391",
-   "Admob_Banner":"ca-app-pub-3940256099942544/6300978111",
-   "Admob_Interstitial":"ca-app-pub-3940256099942544/1033173712",
-   "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
-   "AppOpen":"ca-app-pub-3940256099942544/3419835294",
-   "fbad_showStatus":"1",
-   "fb_banner":"834396350834397_838053503802015",
-   "fb_inter1":"834396350834397_838064057134293",
-   "fb_inter2":"834396350834397_838064057134293",
-   "fb_inter3":"834396350834397_838064010467631",
-   "fb_native":"834396350834397_838064123800953",
-   "fb_nativebanner":"834396350834397_838064030467629"
+   "Ads":[
+      {
+         "app_id":"ca-app-pub-3940256099942544~3347511711",
+         "banner_id":"ca-app-pub-3940256099942544/6300978112",
+         "interstitial_id":"ca-app-pub-3940256099942544/1033173713",
+         "native_id":"ca-app-pub-3940256099942544/2247696114",
+         "qureka_ads":"https://282.win.predchamp.com",
+         "Ads_url":"https://my-json-server.typicode.com/Chandresh-Mangukiya/mockjson/db";
+         "status":"true",
+         "splash_ads":"false"
+      },
+      {
+         "app_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "interstitial_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+          "interstitial_id1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+          "interstitial_id2":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "native_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "native_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "rectangle_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+          "applovin_banner":"7e2779a65d720437",
+          "applovin_interstitial":"0fe5e427a37bed23",
+         "status":"true",
+         "splash_ads":"false"
+         
+}
+   ]
 }
